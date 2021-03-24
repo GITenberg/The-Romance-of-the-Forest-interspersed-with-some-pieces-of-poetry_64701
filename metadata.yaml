@@ -1,0 +1,30 @@
+_repo: The-Romance-of-the-Forest-interspersed-with-some-pieces-of-poetry_64701
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Radcliffe, Ann Ward
+    aliases:
+    - Ratcliffe, Mrs.
+    - Radcliffe, Anne
+    - Rattcliffe, Anne
+    - Radcliffe, Mrs.
+    birthdate: 1764
+    deathdate: 1823
+    gutenberg_agent_id: '1147'
+    url: http://www.gutenberg.org/2009/agents/1147
+    wikipedia: https://en.wikipedia.org/wiki/Ann_Radcliffe
+description: ''
+gutenberg_issued: '2021-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Romance of the Forest
+
+  interspersed with some pieces of poetry.'
+url: http://www.gutenberg.org/ebooks/64701
