@@ -1,5 +1,8 @@
 _repo: The-Romance-of-the-Forest-interspersed-with-some-pieces-of-poetry_64701
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64701-h/images/forest_cover.jpg
 creator:
   author:
     agent_name: Radcliffe, Ann Ward
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1147
     wikipedia: https://en.wikipedia.org/wiki/Ann_Radcliffe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64701#The-Romance-of-the-Forest-interspersed-with-some-pieces-of-poetry
 gutenberg_issued: '2021-03-05'
 gutenberg_type: Text
 identifiers:
